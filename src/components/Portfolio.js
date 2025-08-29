@@ -56,10 +56,10 @@ const Portfolio = () => {
       id: 1,
       title: 'Internship',
       category: 'Internships',
-      cover: '/images/internship-cover.jpeg',
+      cover: '/display/internship-cover.jpeg',
       description: 'I have completed enriching internships in UI/UX Design and Internet of Things (IoT) with Cognifyz Technologies, Tamizhan Skills, and NoviTech R&D Pvt. Ltd., where I explored both creative design and technical problem-solving.',
       details: 'Across these experiences, I worked on diverse and exciting projects that shaped my learning journey. At Cognifyz Technologies, I designed for a centralized application and a drone app, focusing on creating smooth and user-friendly interfaces. My time at Tamizhan Skills allowed me to experiment with practical solutions like a banking system, food ordering application, and a portfolio website, which helped me strengthen my design thinking and creativity. At NoviTech R&D, I stepped into the world of IoT, working on electronics-based projects such as a soil moisture measurement system, where I learned how hardware and software blend together to solve real problems. These combined experiences not only built my skills but also gave me the confidence to create solutions that are both innovative and impactful.',
-      images: ['/images/certificates/internship/cc.jpeg', '/images/certificates/internship/certificate.jpg', '/images/certificates/internship/novi.jpg'],
+      display: ['/display/certificates/internship/cc.jpeg', '/display/certificates/internship/certificate.jpg', '/display/certificates/internship/novi.jpg'],
       tools: ['Figma', 'User Research', 'Prototyping', 'IoT'],
     },
    
@@ -67,10 +67,10 @@ const Portfolio = () => {
       id: 2,
       title: 'Workshop',
       category: 'Workshops',
-      cover: '/images/workshop-cover.jpeg',
+      cover: '/display/workshop-cover.jpeg',
       description: 'I have participated in workshops on Flutter App Development at Kongu Engineering College and Blockchain & Cryptocurrency at Sri Eshwar College of Engineering, which helped me explore both mobile app development and emerging technologies.',
       details: 'The Flutter workshop at Kongu Engineering College gave me hands-on exposure to cross-platform app development concepts, where I learned the basics of Flutter framework, widgets, and application flow. It strengthened my interest in building scalable mobile applications with efficient UI components. At Sri Eshwar College, I gained valuable insights into Blockchain, Bitcoin, and Cryptocurrency for enterprises, which enhanced my understanding of decentralized systems, digital transactions, and their real-world applications. Together, these workshops broadened my technical perspective and provided me with a solid foundation to explore both mobile app development and blockchain-based innovations in future projects.',
-      images: ['/images/certificates/workshop/kongu.jpg', '/images/certificates/workshop/tech.jpg'],
+      display: ['/display/certificates/workshop/kongu.jpg', '/display/certificates/workshop/tech.jpg'],
       tools: ['Flutter', 'Linux'],
     },
     
@@ -78,10 +78,10 @@ const Portfolio = () => {
       id: 3,
       title: 'Certification courses',
       category: 'Course Completion',
-      cover: '/images/figma-course-cover.jpg',
+      cover: '/display/figma-course-cover.jpg',
       description: 'I have a solid foundation in both digital design and web development, with certifications in Figma, Canva, and web design. My proficiency in creating user interfaces and web designs is complemented by my understanding of the fundamental principles of web development and IoT, showcasing a versatile and modern skill set.',
       details: 'My coursework began with an Introduction to Web Design and Development, where I gained a fundamental understanding of HTML and the core principles of web design. I further enhanced my design capabilities by completing the Figma UI UX Design Essentials and Learning Canva courses. This training has equipped me with the practical skills to create intuitive user interfaces and compelling visual content, from conceptualization in Figma to execution in Canva. Additionally, I successfully completed a 30-day MasterClass in the Internet of Things (IoT), providing me with knowledge of a rapidly evolving technological field and demonstrating my commitment to continuous learning in various tech domains. This combination of design, web, and IoT skills makes me a well-rounded and adaptable professional.',
-      images: ['/images/certificates/coursecompletion/certificate.jpg', '/images/certificates/coursecompletion/lc.jpeg', '/images/certificates/coursecompletion/lin.jpg', '/images/certificates/coursecompletion/novitech.jpg'],
+      display: ['/display/certificates/coursecompletion/certificate.jpg', '/display/certificates/coursecompletion/lc.jpeg', '/display/certificates/coursecompletion/lin.jpg', '/display/certificates/coursecompletion/novitech.jpg'],
       tools: ['Figma', 'Canva', 'Visual studio code', 'Arduino'],
     },
     
@@ -89,10 +89,10 @@ const Portfolio = () => {
       id: 4,
       title: 'Hackathon',
       category: 'Hackathons',
-      cover: '/images/hackathon-cover.jpg',
+      cover: '/display/hackathon-cover.jpg',
       description: 'I have actively participated in a variety of technical hackathons, which highlight my skills in developing innovative solutions under pressure. My projects include a DDOS attack monitoring website, an AI-suggested music system, and a centralized project expo site named Inventicon.',
       details: 'My experience in hackathons demonstrates my ability to apply technical knowledge to solve real-world problems. At the GenAI Hackathon, I was part of a team that built a website to monitor and visualize DDOS attacks, showcasing my proficiency in cybersecurity and web development. During the Sindhanai AI Hackathon, our project focused on creating an AI-suggested music system that provides personalized recommendations, highlighting my skills in artificial intelligence and machine learning. Finally, at the 24-Hour HackXtreme, my team developed "Inventicon," a centralized project expo site designed to showcase and manage innovative projects, which demonstrates my capability in creating practical, user-centric web applications.',
-      images: ['/images/certificates/hackathon/intel.jpg', '/images/certificates/hackathon/sindhanai.jpg', '/images/certificates/hackathon/rama.jpg'],
+      display: ['/display/certificates/hackathon/intel.jpg', '/display/certificates/hackathon/sindhanai.jpg', '/display/certificates/hackathon/rama.jpg'],
       tools: ['Figma', 'AI', 'wireshark', 'Opencv', 'Python', 'React.js'],
     },
     
@@ -100,10 +100,10 @@ const Portfolio = () => {
       id: 5,
       title: 'Project Expo',
       category: 'Project Expo',
-      cover: '/images/project-expo-cover.webp',
+      cover: '/display/project-expo-cover.webp',
       description: 'I have actively participated in multiple Project Expos at the national and college levels, showcasing my technical projects and gaining valuable experience in a competitive environment. My participation in events at Velammal Engineering College and CARE College of Engineering highlights my commitment to applying my skills in a practical setting.',
       details: 'My involvement in Project Expos demonstrates my ability to develop and present innovative projects. At the Project Expo at CARE College of Engineering, I showcased an autonomous car, a project that refined my skills in robotics and embedded systems. I also participated in the National Level Technical Symposium DXM 2K24 at Velammal Engineering College, where I presented a UAV (Unmanned Aerial Vehicle) as part of a project from my MSME, demonstrating my expertise in aerospace technology and project development. These experiences have been crucial in refining my skills in conceptualization, development, and presentation, as I successfully showcased my work to a broader audience and received recognition for my efforts.',
-      images: ['/images/certificates/project expo/care.jpg', '/images/certificates/project expo/velammal.jpg'],
+      display: ['/display/certificates/project expo/care.jpg', '/display/certificates/project expo/velammal.jpg'],
       tools: ['React', 'Node.js', 'MongoDB', 'Figma'],
     },
     
@@ -111,10 +111,10 @@ const Portfolio = () => {
       id: 6,
       title: 'The Ministry of Micro , Small and Medium Enterprises',
       category: 'MSME',
-      cover: '/images/msme-cover.webp',
+      cover: '/display/msme-cover.webp',
       description: 'My MSME experience began at the AIC RAISE Business Incubator in Coimbatore, where my team and I were selected for the first round of idea pitching. We presented our concept for a Firefighter UAV, an innovative solution aimed at assisting in firefighting efforts. Although we were not selected for the next round, the experience provided us with invaluable knowledge in marketing and business strategy.',
       details: 'Following our initial venture, we applied again, this time to the SRM Institute of Science & Technology in Tiruchirapalli, with a new project idea: a universal robotic arm. We were once again selected for the first round of idea pitching, which demonstrates our consistent ability to develop and present compelling innovative projects. We are currently awaiting the results of this round. This journey has not only honed my skills in technical development but also in the crucial areas of ideation, presentation, and adapting to feedback. My continued participation in these competitive environments showcases my resilience and dedication to innovation.',
-      images: ['/images/certificates/msme/uav.jpeg', '/images/certificates/msme/factoryPulse logo.jpeg', '/images/certificates/msme/fp.png'],
+      display: ['/display/certificates/msme/uav.jpeg', '/display/certificates/msme/factoryPulse logo.jpeg', '/display/certificates/msme/fp.png'],
       tools: ['UAV-Flysky(i6)', 'Robotic arm', 'ESP32', 'Arduino'],
     },
     
@@ -122,10 +122,10 @@ const Portfolio = () => {
       id: 7,
       title: 'Design Projects',
       category: 'Design Projects',
-      cover: '/images/ui-ux-cover.webp',
+      cover: '/display/ui-ux-cover.webp',
       description: 'I have completed many projects, but I am showcasing a few of my most remarkable ones here. This collection demonstrates my ability to design for different audiences, from a socially conscious website to a complex technical dashboard.',
       details: 'My work on the "Zero Hunger" platform involved creating an accessible website to connect food donors with those in need. The site highlights the organization mission, vision, and impact, communicating its social purpose effectively. One of my most remarkable projects is the sleek UI for a next-gen cloud technology platform. This design features a secure dashboard with an overview of files, usage stats, and reports. The "About" section is particularly notable for its layered diagram that visually explains the platform security architecture, highlighting my deep understanding of complex system design in a user-friendly way.',
-      images: ['/images/certificates/Design projects/all.mp4', '/images/certificates/Design projects/intel.mp4'],
+      display: ['/display/certificates/Design projects/all.mp4', '/display/certificates/Design projects/intel.mp4'],
       tools: ['Figma', 'Canva'],
     },
   ];
@@ -459,7 +459,7 @@ const Portfolio = () => {
       </div>
 
       <div className="grid gap-8">
-        {project.images.map((media, index) => (
+        {project.display.map((media, index) => (
           <div key={index} className={`${currentTheme.card} rounded-xl overflow-hidden shadow-md ${currentTheme.border} border-2`}>
             {media.endsWith('.mp4') ? (
               <video
